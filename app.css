@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+  height: 100vh;
+}
+
+.bottom-bg {
+  background-color: #ffffff;
+  border-top-left-radius: 19px;
+  border-top-right-radius: 19px;
+  padding: 35px;
+}
+
+.card-heading {
+  color: #323f4b;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.card-text {
+  color: #7b8794;
+  font-family: Roboto;
+  font-size: 13px;
+}
+
+.card-bg {
+  border-style: solid;
+  border-color: #cbd2d9;
+  height: 90px;
+  width: 130px;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 15px;
+  margin-right: 10px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.card-head {
+  color: #323f4b;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.day-container {
+  height: 100vh;
+  text-align: center;
+}
+
+.main-heading {
+  color: #000000;
+  font-family: Bree Serif;
+  font-size: 28px;
+}
+
+.para {
+  color: #000000;
+  font-family: Bree Serif;
+  font-size: 18px;
+}
+
+.button1 {
+  background-color: #8e97fd;
+  border-radius: 16px;
+  color: #ffffff;
+  font-family: Bree Serif;
+  border-width: 0px;
+  font-size: 15px;
+  height: 30px;
+  width: 110px;
+  margin-bottom: 100px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
